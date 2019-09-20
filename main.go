@@ -1,5 +1,5 @@
 /*
-Package main provides the command line app for removing all occurences of 'node_modules' directories.
+Package main provides the command line app for removing all occurrences of 'node_modules' directories.
 
 Usage: purge-npm [/path/to/your/projects]
 
